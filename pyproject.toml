@@ -4,3 +4,4 @@ version = "0.1.0"
 description = "Claude skill that turns a book (EPUB, PDF, HTML, DOCX, Markdown) into an interactive beginner-friendly course: step-by-step lessons, animations, quizzes, chapter tests, flashcards and coding exercises checked by unit tests, with progress saved to files. Runs in the browser, or packaged as an Android"
 requires-python = ">=3.10"
 # clarify the control flow
+# clarify the control flow
